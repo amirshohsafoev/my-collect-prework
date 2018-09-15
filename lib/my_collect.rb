@@ -1,2 +1,3 @@
-def collect_method()
+def my_collect(arguments)
+  
 
