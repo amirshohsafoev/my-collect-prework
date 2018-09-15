@@ -1,2 +1,2 @@
-
+def collect_method()
 
